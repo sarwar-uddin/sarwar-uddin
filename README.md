@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwar-uddin&label=Profile%20views&color=0e75b6&style=plastic" alt="sarwar-uddin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarwar-uddin" alt="sarwar-uddin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarwar-uddin&theme=onedark" alt="sarwar-uddin" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
 
