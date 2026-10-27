@@ -14,6 +14,7 @@ Side quests  leathercraft · cinema · music
 
 ## What I'm Working On
 
+* **[Static FM](https://github.com/sarwar-uddin/static-fm)** — A web radio for music saved on YouTube, with an early-2000s feel: stations on a tuner dial, a tape band that keeps copies with yt-dlp, and a record crate for the whole library. TypeScript, React, Express and SQLite. [v0.1.0](https://github.com/sarwar-uddin/static-fm/releases/tag/v0.1.0) is out.
 * **Workshop** — Building an inventory and order management system to learn TypeScript, React, backend architecture, PostgreSQL, testing, and deployment.
 * **Independent web projects** — Developing lean, practical websites with an emphasis on performance, maintainability, and owning the stack.
 * **Systems & networking** — Exploring Linux, self-hosting, networking, and security through hands-on projects.
@@ -27,7 +28,7 @@ Side quests  leathercraft · cinema · music
 `React` · `Node.js` · `Express` · `Astro` · `Flask`
 
 **Systems & Infrastructure**
-`Linux` · `Git` · `Docker` · `Nginx` · `PostgreSQL` · `Wireshark`
+`Linux` · `Git` · `Docker` · `Nginx` · `PostgreSQL` · `SQLite` · `Wireshark`
 
 **Environment**
 `Arch Linux` · `Zsh` · `Vim` · `CLI`
